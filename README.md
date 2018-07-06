@@ -29,3 +29,10 @@
 
 - 検索エンジン
   - 検索エンジンSpookの中でRustを利用し、高速な検索を実現しています。
+
+### [ピクシブ株式会社](https://www.pixiv.co.jp/)
+
+### [Idein Inc.](https://idein.jp/)
+
+### [クックパッド株式会社](https://info.cookpad.com/)
+- [Rubyの会社でなぜRust？　Cookpadがマイナー言語を採用するまで](https://logmi.jp/282807)
