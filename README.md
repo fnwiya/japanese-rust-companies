@@ -36,3 +36,5 @@
 
 ### [クックパッド株式会社](https://info.cookpad.com/)
 - [Rubyの会社でなぜRust？　Cookpadがマイナー言語を採用するまで](https://logmi.jp/282807)
+
+### [株式会社ＦＦＲＩ](https://www.ffri.jp/)
