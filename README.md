@@ -49,3 +49,7 @@
 ### [株式会社ユーザベース](https://www.uzabase.com/)
 - 企業・業界情報プラットフォーム[SPEEDA](https://jp.ub-speeda.com/)のデータ分析に使っています。
 - 大量データを高速に登録するために使っています。
+
+### [株式会社サイバーエージェント](https://www.cyberagent.co.jp/)
+- アドベリフィケーション事業の配信サーバに使っています。
+- Rust で最速 WebFramework をつくるゼミをやっています。
