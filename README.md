@@ -42,3 +42,7 @@
 
 ### [クックパッド株式会社](https://info.cookpad.com/)
 - [Rubyの会社でなぜRust？　Cookpadがマイナー言語を採用するまで](https://logmi.jp/282807)
+
+### [Axelspace Corp.](https://www.axelspace.com/)
+- 人工衛星からのデータ（テレメトリ）の解析に使っています。
+
