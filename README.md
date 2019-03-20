@@ -34,7 +34,14 @@
 
 ### [Idein Inc.](https://idein.jp/)
 
+- IoTプラットホームの [Actcast](https://actcast.io) で使っている
+  - アプリケーションサーバ
+  - Raspberry Pi上で動くエージェント
+
 ### [クックパッド株式会社](https://info.cookpad.com/)
 - [Rubyの会社でなぜRust？　Cookpadがマイナー言語を採用するまで](https://logmi.jp/282807)
 
 ### [株式会社ＦＦＲＩ](https://www.ffri.jp/)
+
+### [Axelspace Corp.](https://www.axelspace.com/)
+- 人工衛星からのデータ（テレメトリ）の解析に使っています。
