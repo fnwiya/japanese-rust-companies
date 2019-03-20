@@ -58,3 +58,7 @@
 ### [株式会社オプティム](https://www.optim.co.jp/)
 
 - [https://tech-blog.optim.co.jp/entry/2019/01/07/173000#usage-in-optim](https://tech-blog.optim.co.jp/entry/2019/01/07/173000#usage-in-optim)
+
+### [株式会社ドワンゴ](http://dwango.co.jp/)
+
+- [https://dwango.github.io/articles/frugalos/](https://dwango.github.io/articles/frugalos/)
