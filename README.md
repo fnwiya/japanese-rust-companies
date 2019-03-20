@@ -54,3 +54,7 @@
 
 - アドベリフィケーション事業の配信サーバに使っています。
 - Rust で最速 WebFramework をつくるゼミをやっています。
+
+### [株式会社オプティム](https://www.optim.co.jp/)
+
+- [https://tech-blog.optim.co.jp/entry/2019/01/07/173000#usage-in-optim](https://tech-blog.optim.co.jp/entry/2019/01/07/173000#usage-in-optim)
