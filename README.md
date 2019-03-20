@@ -24,8 +24,7 @@
 
 ### [フォルシア株式会社](https://www.forcia.com/)
 
-- 検索エンジン
-  - 検索エンジン Spook の中で Rust を利用し、高速な検索を実現しています。
+- [Shinjuku.rs](https://forcia.connpass.com/event/105485/)を主催しています
 
 ### [ピクシブ株式会社](https://www.pixiv.co.jp/)
 
