@@ -24,8 +24,7 @@
 
 ### [フォルシア株式会社](https://www.forcia.com/)
 
-- 検索エンジン
-  - 検索エンジン Spook の中で Rust を利用し、高速な検索を実現しています。
+- [Shinjuku.rs](https://forcia.connpass.com/event/105485/)を主催しています
 
 ### [ピクシブ株式会社](https://www.pixiv.co.jp/)
 
@@ -54,3 +53,11 @@
 
 - アドベリフィケーション事業の配信サーバに使っています。
 - Rust で最速 WebFramework をつくるゼミをやっています。
+
+### [株式会社オプティム](https://www.optim.co.jp/)
+
+- [https://tech-blog.optim.co.jp/entry/2019/01/07/173000#usage-in-optim](https://tech-blog.optim.co.jp/entry/2019/01/07/173000#usage-in-optim)
+
+### [株式会社ドワンゴ](http://dwango.co.jp/)
+
+- [https://dwango.github.io/articles/frugalos/](https://dwango.github.io/articles/frugalos/)
