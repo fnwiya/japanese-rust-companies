@@ -62,7 +62,7 @@
 
 - [https://dwango.github.io/articles/frugalos/](https://dwango.github.io/articles/frugalos/)
 
-### [株式会社tonari](https://tonari.no)
+### [一般社団法人 tonari](https://tonari.no)
 
 - 離れた空間をつなぐ次世代コミュニケーションプラットフォーム
-- ネットワーキング、圧縮、画像処理など、全コードベースをRustで開発しています。
+- ネットワーキング、圧縮、画像処理など、全コードベースを Rust で開発しています。
