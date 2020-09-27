@@ -66,3 +66,8 @@
 
 - 離れた空間をつなぐ次世代コミュニケーションプラットフォーム
 - ネットワーキング、圧縮、画像処理など、全コードベースを Rust で開発しています。
+
+### [株式会社Mobility Technologies](https://mo-t.com/)
+
+- ドライブレコーダーで動作するDeep LearningやComputer Visionを含むシステムの開発言語として採用しています
+- [エッジMLシステムをC/C++からRustへ移行した事例][https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/]
