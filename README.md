@@ -71,3 +71,8 @@
 
 - ドライブレコーダーで動作するDeep LearningやComputer Visionを含むシステムの開発言語として採用しています
 - [エッジMLシステムをC/C++からRustへ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/)
+
+### [株式会社Handii](https://www.handii.co.jp/)
+
+- Handiiの運営する法人向けウォレットサービス[paild](https://www.paild.io/)のサーバーサイドの開発言語として利用しています。
+- Webframeworkはactix-webを利用中。
