@@ -76,3 +76,14 @@
 
 - Handiiの運営する法人向けウォレットサービス[paild](https://www.paild.io/)のサーバーサイドの開発言語として利用しています。
 - Webframeworkはactix-webを利用中。
+
+### [キャディ株式会社](https://corp.caddi.jp/recruit/eng)
+
+- 会社について
+    - 金属加工品の受発注プラットフォーム [CADDi](https://caddi.jp/) を運営しています。
+    - エンジニアチームは、キャディのオペレーションチームや、顧客、サプライパートナーの利用するシステムを作って事業を支えています。
+- Rust の利用について
+    - https://caddi.tech/archives/2331
+    - 複数の業務システムのバックエンド開発を Rust で行っています
+    - 二次元図面の画像解析アルゴリズム開発でも採用しています
+    - Rust を用いた WebAssembly と WebGL を組み合わせて、図面ビューアを開発しています
