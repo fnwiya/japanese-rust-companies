@@ -87,3 +87,10 @@
     - 複数の業務システムのバックエンド開発を Rust で行っています
     - 二次元図面の画像解析アルゴリズム開発でも採用しています
     - Rust を用いた WebAssembly と WebGL を組み合わせて、図面ビューアを開発しています
+
+### [フェアリーデバイセズ株式会社](https://fairydevices.jp/)
+
+- 音声技術をコアにしてデバイスやサービスを作っている会社です。
+- クラウドAPIサービス[mimi®](https://fairydevices.jp/mimi)のバックエンドの一部でRustを利用しています。
+- クライアントサイドのライブラリやSDKでもRustを活用していく予定です。
+- 求人情報は[こちら](https://www.green-japan.com/company/4267)。
