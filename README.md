@@ -94,3 +94,8 @@
 - クラウドAPIサービス[mimi®](https://fairydevices.jp/mimi)のバックエンドの一部でRustを利用しています。
 - クライアントサイドのライブラリやSDKでもRustを活用していく予定です。
 - 求人情報は[こちら](https://www.green-japan.com/company/4267)。
+
+### [株式会社アークエッジ・スペース](https://arkedgespace.com/)
+
+- 人工衛星のフライトソフトウェア
+- その他、各種ソフトウェア
