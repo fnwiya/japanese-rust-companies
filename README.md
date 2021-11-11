@@ -95,6 +95,11 @@
 - クライアントサイドのライブラリやSDKでもRustを活用していく予定です。
 - 求人情報は[こちら](https://www.green-japan.com/company/4267)。
 
+### [株式会社アークエッジ・スペース](https://arkedgespace.com/)
+
+- 人工衛星のフライトソフトウェア
+- その他、各種ソフトウェア
+
 ### [株式会社PEZY Computing](https://www.pezy.co.jp)
 
 - スーパーコンピュータ向けのプロセッサLSIを作っている会社です。
