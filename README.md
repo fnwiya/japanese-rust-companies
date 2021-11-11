@@ -94,3 +94,11 @@
 - クラウドAPIサービス[mimi®](https://fairydevices.jp/mimi)のバックエンドの一部でRustを利用しています。
 - クライアントサイドのライブラリやSDKでもRustを活用していく予定です。
 - 求人情報は[こちら](https://www.green-japan.com/company/4267)。
+
+### [株式会社PEZY Computing](https://www.pezy.co.jp)
+
+- スーパーコンピュータ向けのプロセッサLSIを作っている会社です。
+- プロセッサLSIの設計支援にRustを活用しています。
+    - プロセッサ検証用の命令セットシミュレータやコンポーネントの検証モデル
+    - プロセッサのソースコードやドキュメント、テストケースの自動生成
+    - LSI設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
