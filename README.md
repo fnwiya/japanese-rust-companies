@@ -99,3 +99,11 @@
 
 - 人工衛星のフライトソフトウェア
 - その他、各種ソフトウェア
+
+### [株式会社PEZY Computing](https://www.pezy.co.jp)
+
+- スーパーコンピュータ向けのプロセッサLSIを作っている会社です。
+- プロセッサLSIの設計支援にRustを活用しています。
+    - プロセッサ検証用の命令セットシミュレータやコンポーネントの検証モデル
+    - プロセッサのソースコードやドキュメント、テストケースの自動生成
+    - LSI設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
