@@ -67,32 +67,32 @@
 - 離れた空間をつなぐ次世代コミュニケーションプラットフォーム
 - ネットワーキング、圧縮、画像処理など、全コードベースを Rust で開発しています。
 
-### [株式会社Mobility Technologies](https://mo-t.com/)
+### [株式会社 Mobility Technologies](https://mo-t.com/)
 
-- ドライブレコーダーで動作するDeep LearningやComputer Visionを含むシステムの開発言語として採用しています
-- [エッジMLシステムをC/C++からRustへ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/)
+- ドライブレコーダーで動作する Deep Learning や Computer Vision を含むシステムの開発言語として採用しています
+- [エッジ ML システムを C/C++から Rust へ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/)
 
-### [株式会社Handii](https://www.handii.co.jp/)
+### [株式会社 Handii](https://www.handii.co.jp/)
 
-- Handiiの運営する法人向けウォレットサービス[paild](https://www.paild.io/)のサーバーサイドの開発言語として利用しています。
-- Webframeworkはactix-webを利用中。
+- Handii の運営する法人向けウォレットサービス[paild](https://www.paild.io/)のサーバーサイドの開発言語として利用しています。
+- Webframework は actix-web を利用中。
 
 ### [キャディ株式会社](https://corp.caddi.jp/recruit/eng)
 
 - 会社について
-    - 金属加工品の受発注プラットフォーム [CADDi](https://caddi.jp/) を運営しています。
-    - エンジニアチームは、キャディのオペレーションチームや、顧客、サプライパートナーの利用するシステムを作って事業を支えています。
+  - 金属加工品の受発注プラットフォーム [CADDi](https://caddi.jp/) を運営しています。
+  - エンジニアチームは、キャディのオペレーションチームや、顧客、サプライパートナーの利用するシステムを作って事業を支えています。
 - Rust の利用について
-    - https://caddi.tech/archives/2331
-    - 複数の業務システムのバックエンド開発を Rust で行っています
-    - 二次元図面の画像解析アルゴリズム開発でも採用しています
-    - Rust を用いた WebAssembly と WebGL を組み合わせて、図面ビューアを開発しています
+  - https://caddi.tech/archives/2331
+  - 複数の業務システムのバックエンド開発を Rust で行っています
+  - 二次元図面の画像解析アルゴリズム開発でも採用しています
+  - Rust を用いた WebAssembly と WebGL を組み合わせて、図面ビューアを開発しています
 
 ### [フェアリーデバイセズ株式会社](https://fairydevices.jp/)
 
 - 音声技術をコアにしてデバイスやサービスを作っている会社です。
-- クラウドAPIサービス[mimi®](https://fairydevices.jp/mimi)のバックエンドの一部でRustを利用しています。
-- クライアントサイドのライブラリやSDKでもRustを活用していく予定です。
+- クラウド API サービス[mimi®](https://fairydevices.jp/mimi)のバックエンドの一部で Rust を利用しています。
+- クライアントサイドのライブラリや SDK でも Rust を活用していく予定です。
 - 求人情報は[こちら](https://www.green-japan.com/company/4267)。
 
 ### [株式会社アークエッジ・スペース](https://arkedgespace.com/)
@@ -100,10 +100,19 @@
 - 人工衛星のフライトソフトウェア
 - その他、各種ソフトウェア
 
-### [株式会社PEZY Computing](https://www.pezy.co.jp)
+### [株式会社 PEZY Computing](https://www.pezy.co.jp)
 
-- スーパーコンピュータ向けのプロセッサLSIを作っている会社です。
-- プロセッサLSIの設計支援にRustを活用しています。
-    - プロセッサ検証用の命令セットシミュレータやコンポーネントの検証モデル
-    - プロセッサのソースコードやドキュメント、テストケースの自動生成
-    - LSI設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
+- スーパーコンピュータ向けのプロセッサ LSI を作っている会社です。
+- プロセッサ LSI の設計支援に Rust を活用しています。
+  - プロセッサ検証用の命令セットシミュレータやコンポーネントの検証モデル
+  - プロセッサのソースコードやドキュメント、テストケースの自動生成
+  - LSI 設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
+
+### [株式会社 POL](https://pol.co.jp/)
+
+- LabTech（研究 × Technology）領域で事業を展開している会社です。
+- 3 つのサービスを運営しています。
+  - 理系学生と企業を結ぶ採用マッチングプラットフォーム [LabBase](https://labbase.jp/)
+  - 理系特化のオンラインイベントプラットフォーム [LabBase Now](https://now.compass.labbase.jp/)
+  - 研究開発者・技術者に特化した転職/採用サービス [LabBase plus](https://plus.labbase.jp/)
+- プラットフォーム基盤開発に Rust を採用し、開発を進めています。
