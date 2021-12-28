@@ -107,3 +107,12 @@
     - プロセッサ検証用の命令セットシミュレータやコンポーネントの検証モデル
     - プロセッサのソースコードやドキュメント、テストケースの自動生成
     - LSI設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
+
+### [株式会社 POL](https://pol.co.jp/)
+
+- LabTech（研究 × Technology）領域で事業を展開している会社です。
+- 3 つのサービスを運営しています。
+  - 理系学生と企業を結ぶ採用マッチングプラットフォーム [LabBase](https://labbase.jp/)
+  - 理系特化のオンラインイベントプラットフォーム [LabBase Now](https://now.compass.labbase.jp/)
+  - 研究開発者・技術者に特化した転職/採用サービス [LabBase plus](https://plus.labbase.jp/)
+- プラットフォーム基盤開発に Rust を採用し、開発を進めています。
