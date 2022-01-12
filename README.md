@@ -116,3 +116,8 @@
   - 理系特化のオンラインイベントプラットフォーム [LabBase Now](https://now.compass.labbase.jp/)
   - 研究開発者・技術者に特化した転職/採用サービス [LabBase plus](https://plus.labbase.jp/)
 - プラットフォーム基盤開発に Rust を採用し、開発を進めています。
+
+### [フルカイテン株式会社](https://corp.full-kaiten.com/)
+
+- 小売業の在庫の運用効率を上げ、売上・粗利・キャッシュフローを最大化する在庫分析のSaaSサービスを開発しています。
+- 予測、集計システムの結果を可視化するためのGraphqlや、Lambdaから起動するバッチ処理にRustを使用しています。
