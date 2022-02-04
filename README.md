@@ -121,3 +121,8 @@
 
 - 小売業の在庫の運用効率を上げ、売上・粗利・キャッシュフローを最大化する在庫分析のSaaSサービスを開発しています。
 - 予測、集計システムの結果を可視化するためのGraphqlや、Lambdaから起動するバッチ処理にRustを使用しています。
+
+### [株式会社フィードフォース](https://www.feedforce.jp/)
+
+- [Omni Hub](https://apps.shopify.com/omni-hub) という Shopify アプリを Rust で開発しています
+- actix-web、diesel、juniper などのライブラリを利用しています
