@@ -133,3 +133,10 @@
 - [Xbit Entrance book](https://www.notion.so/xbit/Xbit-Entrance-book-115f8879d36d42b2ae544fbf2fb4eb85)
 - [週末なにしてますか? 競プロで忙しいですか? 弊社で現実のスケジューリング問題を解いてもらっていいですか?｜株式会社クロスビット Developer｜note](https://note.com/xbit_dev/n/ncaf991bc033f)
 
+### [株式会社 estie](https://www.estie.jp/corp/)
+
+- 弊社はオフィス不動産市場のDXを目指す不動産テック企業で[オフィス探しのestie](https://www.estie.jp/)や[オフィス情報プラットフォームestie pro](https://leasing.estiepro.jp/)を提供しています。
+- 新規プロダクトで Rust を使っています: [estie、Rustで新プロダクト作るってよ - 2022/2/16](https://speakerdeck.com/estie/16)
+- [estie エンジニア採用情報](https://jobs.estie.jp/) にて詳細な採用情報を公開しています。
+  - 「不動産テックってなにやってるの？」という気軽な気持ちでカジュアル面談に申し込んでいただけたら幸いです。
+
