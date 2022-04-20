@@ -34,9 +34,12 @@
   - アプリケーションサーバ
   - Raspberry Pi 上で動くエージェント
 
-### [クックパッド株式会社](https://info.cookpad.com/)
+### [クックパッド株式会社](https://cookpad.jobs/)
 
-- [Ruby の会社でなぜ Rust？　 Cookpad がマイナー言語を採用するまで](https://logmi.jp/282807)
+- SRE チームを中心にパフォーマンスや堅牢さが求められるシーンで利用しています。
+- 例:
+  - プッシュ通知配信基盤 ([Ruby の会社でなぜ Rust？　 Cookpad がマイナー言語を採用するまで](https://logmi.jp/282807))
+  - https://github.com/cookpad/ecamo
 
 ### [株式会社ＦＦＲＩ](https://www.ffri.jp/)
 
