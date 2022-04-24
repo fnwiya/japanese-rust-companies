@@ -143,3 +143,13 @@
 - [estie エンジニア採用情報](https://jobs.estie.jp/) にて詳細な採用情報を公開しています。
   - 「不動産テックってなにやってるの？」という気軽な気持ちでカジュアル面談に申し込んでいただけたら幸いです。
 
+### [ユニークビジョン株式会社](https://www.uniquevision.co.jp/)
+
+- SNSマーケティングツール「Belugaシリーズ」を開発しています
+  - [Beluga](https://beluga.uniquevision.co.jp/) : Twitter/Facebook/Instagramのアカウントを一元管理できるツールとして、企業のSNS運用をサポートします
+  - [Beluga キャンペーン](https://bc.uniquevision.co.jp/) : Twitter自動返信やインスタントウィンキャンペーンを提供。スピーディで品質の高いキャンペーンを実現します
+  - [Beluga チャットボット](https://bcb.uniquevision.co.jp/) : TwitterのDM機能を用いたチャットボットの構築が可能。ユーザーと自動でメッセージの往復を行えます
+- 複数サービスの開発に、様々な用途で Rust を採用しています
+  - 複数のシステムのバックエンド（フレームワークにはActix Webを使用）
+  - クローラなどの常駐プログラム
+  - メモリ使用量を抑えたい処理など部分的に採用するケースもあります
