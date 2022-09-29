@@ -134,7 +134,7 @@
 
 - 「らくしふ」の自動シフトスケジューリング機能(組合せ最適化)でRustを使っています
 - [Xbit Entrance book](https://www.notion.so/xbit/Xbit-Entrance-book-115f8879d36d42b2ae544fbf2fb4eb85)
-- [週末なにしてますか? 競プロで忙しいですか? 弊社で現実のスケジューリング問題を解いてもらっていいですか?｜株式会社クロスビット Developer｜note](https://note.com/xbit_dev/n/ncaf991bc033f)
+- [週末なにしてますか? 競プロで忙しいですか? 弊社で現実のスケジューリング問題を解いてもらっていいですか?｜株式会社クロスビット](https://note.com/xbit_recruit/n/ncaf991bc033f)
 
 ### [株式会社 estie](https://www.estie.jp/corp/)
 
