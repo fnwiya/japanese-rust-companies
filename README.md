@@ -113,13 +113,14 @@
 
 ### [株式会社 LabBase(旧名 POL)](https://labbase.co.jp/)
 2023/08/23 更新
+#### 会社情報
 - LabTech（研究 × Technology）領域で事業を展開している会社です。
 - 3 つのサービスを運営しています。
   - 理系学生と企業を結ぶ採用マッチングプラットフォーム [LabBase](https://compass.labbase.jp/)
   - 理系特化のオンラインイベントプラットフォーム [LabBase Now](https://now.compass.labbase.jp/)
   - 研究開発者・技術者に特化した転職/採用サービス [LabBase plus](https://plus.labbase.jp/)
 - 上記三つのサービスとプラットフォーム基盤開発に Rust を採用し、開発を進めています。
-求人情報
+#### 求人情報
 - 開発情報
   - サーバーサイド：
     - 言語: Rust / Kotlin / Java
