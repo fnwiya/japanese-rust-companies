@@ -126,7 +126,7 @@
     - 言語: Rust / Kotlin / Java
     - フレームワーク: Play 2 Framework / Spring Boot / Actix-web
 
-  -フロントエンド：
+  - フロントエンド：
     - 言語: TypeScript
     - フレームワーク: React
 - 給与	600〜1100万円
