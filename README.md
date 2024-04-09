@@ -182,3 +182,10 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
 
 - オリジナルアイテム・グッズを手軽に作成・販売できる「[SUZURI](https://suzuri.jp)」というサービスで、画像変換サーバーに Rust を採用しています。
   - [SUZURI 技術スタック](https://tech.pepabo.com/tech-stack/suzuri/)
+
+### [ドクターメイト株式会社](https://doctormate.co.jp/)
+
+- ドクターメイト株式会社はデジタルの力を活用することで、介護の現場から医療に関わるリスクや負担を軽減し、介護従事者が安心して日々のケアに集中できる体制づくりをサポートしています。
+- サービスのバックエンドを Rust (axum, async-graphql) で開発しています。
+  - [その他技術スタック](https://whatweuse.dev/company/doctor_mate)
+- [カジュアル面談](https://herp.careers/v1/doctormate/3l6Guniw02L3)を実施しています。オンラインでお気軽にお話ししませんか？
