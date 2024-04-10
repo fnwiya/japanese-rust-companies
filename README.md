@@ -122,7 +122,7 @@
 #### 求人情報
 - 開発情報
   - サーバーサイド：Rust、Axum
-  - フロントエンド：言語: TypeScript、React
+  - フロントエンド: TypeScript、React
   - DB/インフラ　: MySQL、Amazon DynamoDB、AWS、Cloudflare
 - 給与	600〜1100万円
 - フルリモート
