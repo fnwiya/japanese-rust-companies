@@ -111,8 +111,7 @@
     - プロセッサのソースコードやドキュメント、テストケースの自動生成
     - LSI設計言語(SystemVerilog)の[linter](https://github.com/dalance/svlint)及び[Language Server](https://github.com/dalance/svls)
 
-### [株式会社 LabBase(旧名 POL)](https://labbase.co.jp/)
-2023/08/23 更新
+### [株式会社 LabBase ](https://labbase.co.jp/)
 #### 会社情報
 - LabTech（研究 × Technology）領域で事業を展開している会社です。
 - 3 つのサービスを運営しています。
@@ -122,16 +121,12 @@
 - 上記三つのサービスとプラットフォーム基盤開発に Rust を採用し、開発を進めています。
 #### 求人情報
 - 開発情報
-  - サーバーサイド：
-    - 言語: Rust / Kotlin / Java
-    - フレームワーク: Play 2 Framework / Spring Boot / Actix-web
-
-  - フロントエンド：
-    - 言語: TypeScript
-    - フレームワーク: React
+  - サーバーサイド：Rust、Axum
+  - フロントエンド: TypeScript、React
+  - DB/インフラ　: MySQL、Amazon DynamoDB、AWS、Cloudflare
 - 給与	600〜1100万円
 - フルリモート
-- 詳細は[こちら](https://plus.labbase.jp/)
+- [求人詳細はこちら](https://herp.careers/v1/polinc/requisition-groups/d7b2cf5c-8551-42b7-a907-6a6d173c7c36)
 
 ### [フルカイテン株式会社](https://corp.full-kaiten.com/)
 
