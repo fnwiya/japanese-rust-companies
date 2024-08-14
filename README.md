@@ -178,6 +178,21 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
 - オリジナルアイテム・グッズを手軽に作成・販売できる「[SUZURI](https://suzuri.jp)」というサービスで、画像変換サーバーに Rust を採用しています。
   - [SUZURI 技術スタック](https://tech.pepabo.com/tech-stack/suzuri/)
 
+### [Finatext Holdings Ltd.](https://hd.finatext.com/)
+
+プラットフォームチームにてコンポーネントやツールをRustで開発しています。OSSとして公開しているもの:
+
+- https://github.com/Finatext/orgu
+  - [ブログ記事](https://techblog.finatext.com/orgu-e3a3ad0219a8)
+- https://github.com/Finatext/gls
+  - [登壇資料](https://speakerdeck.com/taiki45/efficient-platform-for-security-and-compliance-89d1ad22-14d6-44df-ab7e-dc4ca7fb470c)
+
+採用情報:
+
+- [エンジニア向け採用資料](https://speakerdeck.com/finatext/finatext-are-hiring-engineers)
+
+興味がある方は気軽にカジュアル面談など申し込んでいただけるとうれしいです！
+
 ### [ドクターメイト株式会社](https://doctormate.co.jp/)
 
 - ドクターメイト株式会社はデジタルの力を活用することで、介護の現場から医療に関わるリスクや負担を軽減し、介護従事者が安心して日々のケアに集中できる体制づくりをサポートしています。
