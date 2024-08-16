@@ -185,6 +185,23 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
   - [その他技術スタック](https://whatweuse.dev/company/doctor_mate)
 - [カジュアル面談](https://herp.careers/v1/doctormate/3l6Guniw02L3)を実施しています。オンラインでお気軽にお話ししませんか？
 
+### [Miletos株式会社](https://miletos.tech/)
+
+- 主にエンタープライズ企業に対して、[経費精算システム](https://sapphire.miletos.tech/)と[入金消し込みシステム](https://stream.miletos.tech/)を自社開発しています。
+- Rustの利用箇所
+  - 経費精算システムのバックエンド全て
+    - actix-web 
+    - async-graphql
+    - diesel / sqlx 
+  - 入金消し込みシステムのバックエンド全て
+    - axum
+    - async-graphql
+    - sqlx
+- 求人情報
+  - 給与: 600 ~ 1200万以上
+  - 募集ポジションは[こちら](https://herp.careers/v1/miletos)
+  - [弊社がエンジニアに期待すること](https://miletos.notion.site/c54c6ee7b0de43d8bc8e1eacd9aa91ed)
+
 ### [CollaboGate](https://nodecross.io/)
 
 - CollaboGateは、「データインフラをシンプルにし、産業の変革を支える」をミッションに掲げるサイバーセキュリティスタートアップです。分散型ID技術を活用し、世界中のIoT機器とクラウドを安全に繋ぐデジタルトラスト基盤「NodeX（ノード・クロス）」を開発しています。このインフラ技術を軸に、パートナー企業のIoT事業成長を支援する、そんな事業を展開しています。
