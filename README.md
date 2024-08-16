@@ -75,7 +75,7 @@
 - ドライブレコーダーで動作するDeep LearningやComputer Visionを含むシステムの開発言語として採用しています
 - [エッジMLシステムをC/C++からRustへ移行した事例](https://docs.google.com/presentation/d/1HOL9jheJnKkh2q7w3hU_px-je1qL7lxrSXV-0P1hces/)
 
-### [株式会社Handii](https://www.handii.co.jp/)
+### [株式会社ペイルド](https://www.paild.co.jp/)
 
 - Handiiの運営する法人向けウォレットサービス[paild](https://www.paild.io/)のサーバーサイドの開発言語として利用しています。
 - Webframeworkはactix-webを利用中。
@@ -201,3 +201,9 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
   - 給与: 600 ~ 1200万以上
   - 募集ポジションは[こちら](https://herp.careers/v1/miletos)
   - [弊社がエンジニアに期待すること](https://miletos.notion.site/c54c6ee7b0de43d8bc8e1eacd9aa91ed)
+
+### [CollaboGate](https://nodecross.io/)
+
+- CollaboGateは、「データインフラをシンプルにし、産業の変革を支える」をミッションに掲げるサイバーセキュリティスタートアップです。分散型ID技術を活用し、世界中のIoT機器とクラウドを安全に繋ぐデジタルトラスト基盤「NodeX（ノード・クロス）」を開発しています。このインフラ技術を軸に、パートナー企業のIoT事業成長を支援する、そんな事業を展開しています。
+- サービスのバックエンド全般でRust を採用しています。
+- [採用情報](https://collabogate.notion.site/CollaboGate-9de87dfb448b4c3fa02af707c6c3d855)
