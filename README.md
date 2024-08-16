@@ -184,3 +184,9 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
 - サービスのバックエンドを Rust (axum, async-graphql) で開発しています。
   - [その他技術スタック](https://whatweuse.dev/company/doctor_mate)
 - [カジュアル面談](https://herp.careers/v1/doctormate/3l6Guniw02L3)を実施しています。オンラインでお気軽にお話ししませんか？
+
+### [CollaboGate](https://nodecross.io/)
+
+- CollaboGateは、「データインフラをシンプルにし、産業の変革を支える」をミッションに掲げるサイバーセキュリティスタートアップです。分散型ID技術を活用し、世界中のIoT機器とクラウドを安全に繋ぐデジタルトラスト基盤「NodeX（ノード・クロス）」を開発しています。このインフラ技術を軸に、パートナー企業のIoT事業成長を支援する、そんな事業を展開しています。
+- サービスのバックエンド全般でRust を採用しています。
+- [採用情報](https://collabogate.notion.site/CollaboGate-9de87dfb448b4c3fa02af707c6c3d855)
