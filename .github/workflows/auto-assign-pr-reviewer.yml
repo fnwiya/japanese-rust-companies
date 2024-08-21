@@ -8,7 +8,7 @@ jobs:
   add_self_as_reviewer:
     runs-on: ubuntu-latest
     steps:
-      - name: Add self as reviewer
-        uses: peter-evans/add-reviewers@v1
+      - uses: actions/checkout@v1
+      - uses: ohnogumi/assign-reviewers@v0.0.5
         with:
-          reviewers: 'fnwiya'
+         token: "${{ secrets.GITHUB_TOKEN }}"
