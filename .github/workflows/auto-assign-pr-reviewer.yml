@@ -1,0 +1,14 @@
+name: Auto-assign Reviewer
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  add_self_as_reviewer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add self as reviewer
+        uses: peter-evans/add-reviewers@v1
+        with:
+          reviewers: 'fnwiya'
