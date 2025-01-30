@@ -226,3 +226,12 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
 
 ### [NOWIST株式会社](https://nowist.co.jp/)
 - [介護求人セレクト](https://www.kaigojobselect.com/)のバックエンドAPIでRustを採用しています。
+
+
+### [FRAIM株式会社](https://fraim.co.jp/)
+
+- 契約書の作成・検索・レビューを効率化する業務効率化サービス[LAWGUE](https://lawgue.com/)を自社開発しています。
+- 主にBackendで以下のようなcrateを用いて開発を行っています
+  - axum
+  - async-graphql
+- また、文書解析やbrowserでwasmを実行するケースにも利用しております
