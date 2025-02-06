@@ -235,3 +235,19 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
   - axum
   - async-graphql
 - また、文書解析やbrowserでwasmを実行するケースにも利用しております
+
+### [Jij Inc.](https://www.j-ij.com/ja)
+
+- 会社について
+  - 業務内容：量子・古典ハイブリッド技術を活用した数理最適化ソリューションの開発・提供
+  - 採用情報: https://www.j-ij.com/ja/recruit
+- Rustの利用について
+  - 数理最適化ソフトウェア群をRustとPythonで開発しています。特にコアとなるPythonパッケージを[PyO3](https://github.com/PyO3/pyo3)で開発しています。
+  - OSSになっているもの
+    - [OMMX](https://github.com/Jij-Inc/ommx)
+    - [pyo3-stub-gen](https://github.com/Jij-Inc/pyo3-stub-gen)
+    - [serde-pyobject](https://github.com/Jij-Inc/serde-pyobject)
+  - ブログ記事
+    - [Jijのプロダクト開発にRustを採用した](https://zenn.dev/jij_inc/articles/fa5693fa2c7e27)
+    - [Haskeller の異常な愛情：または、生粋の Haskeller は転職して Rust を一ヶ月半書いて何を思うようになったか](https://zenn.dev/jij_inc/articles/2024-12-18-pure-haskeller-writing-rust)
+  - [Rust.Tokyo 2024 Silver Sponsor](https://rust.tokyo/sponsors)
