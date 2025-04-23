@@ -251,3 +251,13 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
     - [Jijのプロダクト開発にRustを採用した](https://zenn.dev/jij_inc/articles/fa5693fa2c7e27)
     - [Haskeller の異常な愛情：または、生粋の Haskeller は転職して Rust を一ヶ月半書いて何を思うようになったか](https://zenn.dev/jij_inc/articles/2024-12-18-pure-haskeller-writing-rust)
   - [Rust.Tokyo 2024 Silver Sponsor](https://rust.tokyo/sponsors)
+
+### [アミフィアブル株式会社](https://www.amifiable.co.jp/recruit)
+
+アミフィアブル株式会社は、AI技術を活用してソフトウェア開発の効率化と品質向上を実現する先進的な企業です。Rustを中心とした最先端技術でテスト自動化の革新に挑戦し、Rustエンジニアの成長に適した環境を提供しています。
+
+## 技術スタック
+
+- バックエンド: Rust（Actix Webフレームワーク）
+- フロントエンド: React + TypeScript
+- デスクトップアプリ: Electron（Tauriへの移行を進めてます）
