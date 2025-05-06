@@ -256,8 +256,20 @@ KICONIA WORKSはAIモデル開発やシステム開発を通じて顧客課題�
 
 アミフィアブル株式会社は、AI技術を活用してソフトウェア開発の効率化と品質向上を実現する先進的な企業です。Rustを中心とした最先端技術でテスト自動化の革新に挑戦し、Rustエンジニアの成長に適した環境を提供しています。
 
-## 技術スタック
+#### 技術スタック
 
 - バックエンド: Rust（Actix Webフレームワーク）
 - フロントエンド: React + TypeScript
 - デスクトップアプリ: Electron（Tauriへの移行を進めてます）
+
+### [株式会社PocketChange](https://about.pocket-change.jp/)
+
+- 電子マネー作成サービスを作ったり、外貨両替の端末を作って提供しています。
+- 主に2つのサービスを運営しています。
+  - 誰でも自社のオリジナル電子マネーを作成できるサービス [Pokepay](https://pokepay.jp/)
+  - 外貨のコインや紙幣を電子マネーに交換できる端末 [PocketChange](https://pocket-change.jp/)
+- [Pokepay](https://pokepay.jp/) のバックエンド開発、チャージ機のハードウェア(RaspberryPi)、ファームウェアなどで Rust を採用しています。
+- 技術スタック
+   - バックエンド: axum, async-graphql など
+   - フロントエンド: Flutter, Reactなど
+- [採用情報はこちら](https://about.pocket-change.jp/careers/backend-engineer-rust-en)
